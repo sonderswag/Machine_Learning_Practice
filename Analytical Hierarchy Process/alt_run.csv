@@ -1,0 +1,16 @@
+alternatives : ,Human,Robot
+criteria :,Completion,Correctness,Time,Effort,Satisfaction
+#,,,,,
+Task 0,Human ,Robot 
+Completion,0.99,0.75
+Correctness,0.99,0.6
+Time,-20,-10
+Effort,-8,-5
+Satisfaction,0.2,0.5
+#,,,,,
+Task 1,Human ,Robot 
+Completion,0.99,.09
+Correctness,0.99,0.8
+Time,-50,-1
+Effort,-1000,-1
+Satisfaction,1,0.5

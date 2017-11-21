@@ -1,0 +1,14 @@
+criteria, completion, correctness 
+alternatives, human, robot 
+
+criteria_pairwise, completion, correctness 
+1, 7
+1/7.0, 1 
+
+alternative_pairwise, completion, % 
+human, .99
+robot, .75 
+
+alternative_pairwise, correctness, % 
+human, .99
+robot, .5 
